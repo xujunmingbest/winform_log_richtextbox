@@ -1,0 +1,4 @@
+﻿  mainWnd.cpp
+  mainWnd.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  富文本框多样式日志.vcxproj -> E:\clr\富文本框多样式日志\Debug\富文本框多样式日志.exe
+  富文本框多样式日志.vcxproj -> E:\clr\富文本框多样式日志\Debug\富文本框多样式日志.pdb (Partial PDB)
